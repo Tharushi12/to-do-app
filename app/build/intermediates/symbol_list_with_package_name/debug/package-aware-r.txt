@@ -3048,6 +3048,7 @@ drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_launcher_logo_background
 drawable ic_launcher_new_background
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
@@ -3892,6 +3893,8 @@ layout support_simple_spinner_dropdown_item
 layout update_info
 mipmap ic_launcher
 mipmap ic_launcher_logo
+mipmap ic_launcher_logo_foreground
+mipmap ic_launcher_logo_round
 mipmap ic_launcher_new
 mipmap ic_launcher_new_foreground
 mipmap ic_launcher_round
